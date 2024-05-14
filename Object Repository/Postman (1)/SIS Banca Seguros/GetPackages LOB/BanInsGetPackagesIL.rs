@@ -38,7 +38,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer 00DDG000009TCI1!AR0AQBpFrYuI2brziU9P85fLz1EtyX8h35SM2AlkVqztpSxfXvzZtd9btVeMq9rt3.74_A5wNEpNbK.HfYncu_q0kwq.v78t</value>
+      <value>${GlobalVariable.TOKEN}</value>
       <webElementGuid>0b907ddb-e6db-434d-8a88-652e23cfc6a5</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.6.9</katalonVersion>
