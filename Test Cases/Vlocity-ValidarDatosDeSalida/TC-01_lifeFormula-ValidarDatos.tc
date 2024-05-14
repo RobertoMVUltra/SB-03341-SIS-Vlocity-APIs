@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-01_lifeFormula</name>
+   <name>TC-01_lifeFormula-ValidarDatos</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>852bce1e-3d32-42e4-9385-af330fba8cbc</testCaseGuid>
@@ -99,6 +99,12 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
+      <variableId>c548335d-3f54-401a-9ba6-1c146a810310</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>325732ff-c4b5-481e-82bb-5a11c79b7e0a</variableId>
    </variableLinks>
    <variableLinks>
@@ -118,6 +124,12 @@
       <type>DEFAULT</type>
       <value></value>
       <variableId>fa0ebad8-4458-4bb8-b2c8-3e5e5705d8d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d30c75f9-a2b6-48e0-8d3d-a70ecf0de02c</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
@@ -147,6 +159,12 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
+      <variableId>e9820543-02e6-4d57-9590-da3852b4f52f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>db75a54e-93b7-433b-9b85-2edfd37bfa8d</variableId>
    </variableLinks>
    <variableLinks>
@@ -166,6 +184,12 @@
       <type>DEFAULT</type>
       <value></value>
       <variableId>86fdef5b-d895-4759-8386-5d8de2b04133</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca48286c-72f0-42d1-8c2e-8660afc59a07</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
@@ -195,6 +219,12 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
+      <variableId>f3c99ffd-0d22-4f2e-82c3-3a83ded62366</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>61997a0c-5bde-425d-a1d0-48e416cea25f</variableId>
    </variableLinks>
    <variableLinks>
@@ -214,6 +244,12 @@
       <type>DEFAULT</type>
       <value></value>
       <variableId>ec8d446f-957a-4325-817e-874bd9a25833</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8a4322c-44a0-43bf-8251-e82733be99ea</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
@@ -243,6 +279,12 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
+      <variableId>cb8a3e45-ae3f-4862-9304-201f60f722e8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>4c707117-308e-4550-b9e2-b91c7e8323a8</variableId>
    </variableLinks>
    <variableLinks>
@@ -262,6 +304,12 @@
       <type>DEFAULT</type>
       <value></value>
       <variableId>59aaae60-15ee-4875-9167-9922ebed6e87</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7588270-45c6-45c7-8f8e-b113953c00ea</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
@@ -387,6 +435,13 @@
       <name>name0</name>
    </variable>
    <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>c548335d-3f54-401a-9ba6-1c146a810310</id>
+      <masked>false</masked>
+      <name>isOptional0</name>
+   </variable>
+   <variable>
       <defaultValue>'VI11'</defaultValue>
       <description></description>
       <id>325732ff-c4b5-481e-82bb-5a11c79b7e0a</id>
@@ -413,6 +468,13 @@
       <id>fa0ebad8-4458-4bb8-b2c8-3e5e5705d8d4</id>
       <masked>false</masked>
       <name>name1</name>
+   </variable>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>d30c75f9-a2b6-48e0-8d3d-a70ecf0de02c</id>
+      <masked>false</masked>
+      <name>isOptional1</name>
    </variable>
    <variable>
       <defaultValue>'VI37'</defaultValue>
@@ -443,6 +505,13 @@
       <name>name2</name>
    </variable>
    <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>e9820543-02e6-4d57-9590-da3852b4f52f</id>
+      <masked>false</masked>
+      <name>isOptional2</name>
+   </variable>
+   <variable>
       <defaultValue>'VI10'</defaultValue>
       <description></description>
       <id>db75a54e-93b7-433b-9b85-2edfd37bfa8d</id>
@@ -469,6 +538,13 @@
       <id>86fdef5b-d895-4759-8386-5d8de2b04133</id>
       <masked>false</masked>
       <name>name3</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>ca48286c-72f0-42d1-8c2e-8660afc59a07</id>
+      <masked>false</masked>
+      <name>isOptional3</name>
    </variable>
    <variable>
       <defaultValue>'VI02'</defaultValue>
@@ -499,6 +575,13 @@
       <name>name4</name>
    </variable>
    <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>f3c99ffd-0d22-4f2e-82c3-3a83ded62366</id>
+      <masked>false</masked>
+      <name>isOptional4</name>
+   </variable>
+   <variable>
       <defaultValue>'VI38'</defaultValue>
       <description></description>
       <id>61997a0c-5bde-425d-a1d0-48e416cea25f</id>
@@ -525,6 +608,13 @@
       <id>ec8d446f-957a-4325-817e-874bd9a25833</id>
       <masked>false</masked>
       <name>name5</name>
+   </variable>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>b8a4322c-44a0-43bf-8251-e82733be99ea</id>
+      <masked>false</masked>
+      <name>isOptional5</name>
    </variable>
    <variable>
       <defaultValue>'VI-LF08'</defaultValue>
@@ -555,6 +645,13 @@
       <name>name6</name>
    </variable>
    <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>cb8a3e45-ae3f-4862-9304-201f60f722e8</id>
+      <masked>false</masked>
+      <name>isOptional6</name>
+   </variable>
+   <variable>
       <defaultValue>'VI-LF07'</defaultValue>
       <description></description>
       <id>4c707117-308e-4550-b9e2-b91c7e8323a8</id>
@@ -581,6 +678,13 @@
       <id>59aaae60-15ee-4875-9167-9922ebed6e87</id>
       <masked>false</masked>
       <name>name7</name>
+   </variable>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>a7588270-45c6-45c7-8f8e-b113953c00ea</id>
+      <masked>false</masked>
+      <name>isOptional7</name>
    </variable>
    <variable>
       <defaultValue>'VI17'</defaultValue>
